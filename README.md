@@ -1,5 +1,5 @@
 # TRABALHO-LIA-2024
-##Monitoramento de Temperatura e Umidade
+## Monitoramento de Temperatura e Umidade
 O objetivo desse projeto é fazer um sistema que monitora e exibe em tempo real a temperatura e a umidade de um ambiente. Pode enviar alertas quando os valores ultrapassarem determinados limites.
 ###Componentes Necessários:
    - Arduino Uno (ou similar)
