@@ -1,5 +1,5 @@
-# Resultados Finais
-## Montagem Física:
+#Resultados Finais
+##Montagem Física:
 
 A montagem física do projeto é simples e eficaz. O sensor DHT11 (ou DHT22) está conectado corretamente aos pinos do Arduino, e o display LCD está funcionando, mostrando as leituras de temperatura e umidade em tempo real.
 O circuito utiliza componentes básicos como jumpers e resistores, e pode ser montado facilmente em uma placa de ensaio (breadboard).
