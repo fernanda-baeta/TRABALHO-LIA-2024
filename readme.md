@@ -51,3 +51,10 @@ Alarmes de segurança para alertar quando a temperatura ou a umidade atingirem c
 Integração com outros sistemas, como automação residencial ou controle de ventilação, com base nas leituras do sensor.
 Estas expansões aumentam a complexidade, mas oferecem grande valor em termos de funcionalidade.
 
+## Aplicações Práticas:
+
+O projeto tem várias aplicações no mundo real, como:
+Monitoramento de temperatura e umidade em estufas ou salas de servidores.
+Controle de ambiente em residências ou escritórios.
+Sistema de monitoramento de ambientes com sensibilidade a condições climáticas, como adegas de vinhos ou depósitos de alimentos.
+
